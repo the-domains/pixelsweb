@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Bonjour et bienvenue sur mon nouveau site
-datePublished: '2016-05-04T18:18:03.371Z'
-dateModified: '2016-05-04T18:16:50.123Z'
+description: Bienvenue sur PixelsWeb Studio
+datePublished: '2016-05-04T20:48:38.937Z'
+dateModified: '2016-05-04T18:19:35.524Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-bonjour-et-bienvenue-sur-mon-nouveau-site.md
@@ -23,4 +23,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7f42b6a-7d02-4105-b0ea-639ffc927833.jpg)
 
-Bonjour et bienvenue sur mon nouveau site
+Bienvenue sur PixelsWeb Studio

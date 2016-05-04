@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Bonjour et bienvenue sur mon nouveau site
-datePublished: '2016-05-04T18:15:44.456Z'
-dateModified: '2016-05-04T18:15:33.499Z'
+datePublished: '2016-05-04T18:18:03.371Z'
+dateModified: '2016-05-04T18:16:50.123Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-bonjour-et-bienvenue-sur-mon-nouveau-site.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-bonjour-et-bienvenue-sur-mon-nouveau-site.md
 url: bonjour-et-bienvenue-sur-mon-nouveau-site/index.html
 _type: Article
 
